@@ -1,4 +1,4 @@
-# Ecoleta
+# Proffy
 > Sistema composto de backend, aplicação web e mobile desenvolvida durante a Next Level Week 2.
 
 Sistema desenvolvido durante a Next Level Week, composto por Backend (NodeJS - ExpressJS - SQLite3), aplicação SPA web (ReactJS) e aplicação mobile (React-Native).
@@ -6,19 +6,19 @@ O sistema tem como objetivo conectar professores dispostos a lecionarem aulas pa
 
 ![Home da aplicação web](./web/src/screenshots/print1.png)
 
-![Área de pesquisa da aplicação mobile](./web/src/screenshots/print2.png)
+![Tela de pesquisa de professores](./web/src/screenshots/print2.png)
 
-![Área de pesquisa da aplicação mobile](./web/src/screenshots/print3.png)
+![Tela de formulário para cadastro do professor](./web/src/screenshots/print3.png)
 
-![Área de pesquisa da aplicação mobile](./mobile/src/screenshots/Screenshot_20200810-155746.png)
+![Home mobile](./mobile/src/screenshots/Screenshot_20200810-155746.png)
 
-![Área de pesquisa da aplicação mobile](./mobile/src/screenshots/Screenshot_20200810-155805.png)
+![Tela de pesquisa de professores mobile](./mobile/src/screenshots/Screenshot_20200810-155805.png)
 
-![Área de pesquisa da aplicação mobile](./mobile/src/screenshots/Screenshot_20200810-155830.png)
+![Tela de retorno da pesquisa de professores](./mobile/src/screenshots/Screenshot_20200810-155830.png)
 
-![Área de pesquisa da aplicação mobile](./mobile/src/screenshots/Screenshot_20200810-155839.png)
+![Tela de professores favoritos](./mobile/src/screenshots/Screenshot_20200810-155839.png)
 
-![Área de pesquisa da aplicação mobile](./mobile/src/screenshots/Screenshot_20200810-155854.png)
+![Tela "Dar aulas"](./mobile/src/screenshots/Screenshot_20200810-155854.png)
 
 Para mais screenshots acesse a pasta "screenshots" desse repositório. (Em breve)
 
